@@ -1,12 +1,12 @@
 ## Photography Byline
-### Wordpress plugin by David Kissinger
-### First commit October 15, 2014
-### License: GPLv2
-### Follow me at www.DavidKDaily.com
+#### Wordpress plugin by David Kissinger
+#### First commit October 15, 2014
+#### License: GPLv2
+##### Follow me at www.DavidKDaily.com
 
 *Note: This is my first commit on a simple plugin to alter the byline function in Wordpress. Please use discretion and thoroughly understand the functions and potential impacts on security and sanitizing your data before you put it into production!*
 
-#### See below for upcoming mods that I'll do shortly. Comments and pull requests are welcome.
+##### See below for upcoming mods that I'll do shortly. Comments and pull requests are welcome.
 
 **Photography Byline** (photog-byline) is a Wordpress Plugin that should work for any theme, however I am using it on "So There's That: The writer meets the photographer: (http://sotheresthatblog.com), a lifestyle blog by David Kissinger and Charla Avery. So There's That features the Serene theme by Elegant Themes. Check out their great themes at www.elegantthemes.com.
 
