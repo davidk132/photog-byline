@@ -18,7 +18,7 @@ If you want to apply this version of photog-byline to a different theme then you
 
 Use caution while updating your theme's functions.php and remember that if your theme is updated by the publisher, you risk losing any changes!
 
-Features to add or improve:
+##### Features I plan to add or improve:
 * Add permissions controls
 * Add functionality for multiple photographers
 * Add ability to credit photographers who are not registered users on the site
