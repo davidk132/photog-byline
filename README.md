@@ -12,7 +12,7 @@
 
 Photog-byline was written so that each of our posts credit both the author ("Written by...") and also the photographer ("...and Photography by...") during the post Loop in the byline before the blog copy appears. To do this, I added a custom field called $stt_photog and saved it in post meta, so that the photographer is associated with individual posts. Post editors can choose from a dropdown menu on the editing page which photographer, if any, to credit. If no photographer is chosen, then it defaults to the original Serene copy.
 
-**Important:** In order to work, photog-byline depends on additional changes made within functions.php inside the Serene theme. A snippet of that code is included here at functions-snippet.php. This chunk of code is intended to replace the function `et_postinfo_meta()` and is not a freestanding plugin file. In future versions of this plugin I will consolidate it into the plugin code itself.
+**Important:** In order to work, photog-byline depends on additional changes made within functions.php inside the Serene theme. A snippet of that code is included here at functions-snippet.php. This chunk of code is intended to replace the Elegant Themes function `et_postinfo_meta()` and is not a freestanding plugin file. In future versions of this plugin I will consolidate it into the plugin code itself.
 
 If you want to apply this version of photog-byline to a different theme then you should update your theme's functions.php file accordingly. The actual plugin file of this version chooses a photographer from a list of registered users and attributes one of those users as the photographer for a given post by saving `$user->display_name` in post meta. 
 
