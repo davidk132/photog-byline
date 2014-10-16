@@ -1,4 +1,4 @@
-## Photography Byline
+## Photographer Byline
 #### Wordpress plugin by David Kissinger
 #### First commit October 15, 2014
 #### License: GPLv2
@@ -8,7 +8,7 @@
 
 ##### See below for upcoming mods that I'll do shortly. Comments and pull requests are welcome.
 
-**Photography Byline** (photog-byline) is a Wordpress Plugin that should work for any theme, however I am using it on "So There's That: The writer meets the photographer: (http://sotheresthatblog.com), a lifestyle blog by David Kissinger and Charla Avery. So There's That features the Serene theme by Elegant Themes. Check out their great themes at www.elegantthemes.com.
+**Photographer Byline** (photog-byline) is a Wordpress Plugin that should work for any theme, however I am using it on "So There's That: The writer meets the photographer: (http://sotheresthatblog.com), a lifestyle blog by David Kissinger and Charla Avery. So There's That features the Serene theme by Elegant Themes. Check out their great themes at www.elegantthemes.com.
 
 Photog-byline was written so that each of our posts credit both the author ("Written by...") and also the photographer ("...and Photography by...") during the post Loop in the byline before the blog copy appears. To do this, I added a custom field called $stt_photog and saved it in post meta, so that the photographer is associated with individual posts. Post editors can choose from a dropdown menu on the editing page which photographer, if any, to credit. If no photographer is chosen, then it defaults to the original Serene copy.
 
